@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Economic Engineering & Data analysis, University of Cergy-Pontoise, 2018
+* M.S. in Environmental Economics, University of Paris 1 Pantheon Sorbonne, 2016
+* B.S. in Economics and Finance + university degree in Economics and corporate english , University of Cergy-Pontoise, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April to November 2018: **OuiCar** - Data Analyst (Internship) \
+Making use of the car owner's database to help the marketing team optimize supply and demand
+  * Car owner's database clustering 
+  * Data visualisation and dashboard creation with Tableau software
+  * Reporting and analysis of the day-to-day activity
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April to October 2017: **LeCab** - Data Analyst (Internship) \
+Helping the marketing team decision-making through client-database data mining
+  * Client's Database clustering
+  * Churn and retention analysis
+  * Reporting and analysis of the day-to-day activity
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Fluent in English & French
+* Python
+  * Data analysis (numpy, pandas, matplotlib)
+  * Machine learning (scikit-learn)
+  * Deep Learning (Pytorch, Lightning, Keras)
+* R (data.table, dplyr, ggplot2)
+* SQL
+* Tableau
