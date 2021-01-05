@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Djillali Hadmoussa (Djilax)"
-  avatar           : "profile.png"
+  avatar           : "engi.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "France"
   employer         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Djilaxx"
+  github           : "Djilaxx"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/djillali-hadmoussa-75401b138/"
+  linkedin         : "djillali-hadmoussa-75401b138/"
   orcid            :
   pinterest        :
   soundcloud       :
